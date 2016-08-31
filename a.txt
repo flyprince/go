@@ -2,5 +2,5 @@ aaaaaa
 bbbbbb
 cccccc
 
-xiaoMing and zhangSan
+xiaoMing && zhangSan
 
