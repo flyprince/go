@@ -1,6 +1,6 @@
 <?php
-$this->headTitle($this->translate('Extrabux海淘教程|手把手启蒙海淘攻略,图文教程轻松学'));
-$this->headMeta()->setName('keywords', 'Extrabux海淘教程,Extrabux海淘返利教程,海淘返利攻略');
+$this->headTitle($this->translate('dd|dd,dd'));
+$this->headMeta()->setName('keywords', 'dd,dd,dd');
 $this->headMeta()->setName('description', 'Extrabux海淘教程以图文混编的形式向你讲述什么是海淘，如何海淘更省钱？你仅需按照教程操作仅需4步即可0门槛拿5美金，撸美国人羊毛就是那么简单，再也不用为海淘伤脑筋，Extrabux图文海淘教程助您开启海淘之旅，分分钟从菜鸟变身海淘达人。');
 ?>
 
